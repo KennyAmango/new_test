@@ -10,6 +10,7 @@ import javax.persistence.Table;
 public class AA {
 	//123
 	//branch2
+	// nnnnn
 	@Id
 	@Column(name = "id")
 	private String id;
