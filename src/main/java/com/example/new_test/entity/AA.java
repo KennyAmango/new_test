@@ -9,6 +9,7 @@ import javax.persistence.Table;
 @Table(name = "abc")
 public class AA {
     //main
+    //¤À¤ä1 12:18
 	@Id
 	@Column(name = "id")
 	private String id;
